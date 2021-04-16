@@ -3,9 +3,7 @@
 Use this readme file to understand about this folder.
 ## This change for trouble branch.
 This change is for trouble branch.
-#This is trouble branch update.
-This is trouble branch update.
 
 
-#This is main branch change.
-This is main branch change.
+#This is change for Tortoise git.
+This is change for tortoise git.
